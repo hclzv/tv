@@ -89,19 +89,3 @@ https://live.iill.top/douyu/7722576
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车•手游
 http://live.iill.top/douyu.php?id=6672862
 #EXTBURL:https://live.iill.top/douyu/6672862
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
-https://live.iill.top/huya/19439762
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•2「解说」
-https://live.iill.top/huya/25018873
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•1「解说」
-https://live.iill.top/huya/20289754
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•2「解说」
-https://live.iill.top/huya/24983280
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•3「解说」
-https://live.iill.top/huya/24396428
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",漫威「解说」
-https://live.iill.top/huya/17089779
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",跳舞「其他」
-https://live.iill.top/huya/24634408
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/虎牙.png" group-title="•影视「轮播」",猫和老鼠「动漫」
-https://live.iill.top/huya/11352879
