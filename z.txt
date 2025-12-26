@@ -75,14 +75,6 @@ TVB星河,http://r.jdshipin.com/Voac4
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://r.jdshipin.com/TcKr2
 HOY TV,http://r.jdshipin.com/sFw4S
-广东珠江,http://r.jdshipin.com/sE5vO
-广东体育,http://r.jdshipin.com/LiYdg
-广州综合,http://r.jdshipin.com/iR6Gq
-南国都市,http://r.jdshipin.com/nWaZO
-广州综合,http://r.jdshipin.com/snhya
-海峡卫视,http://r.jdshipin.com/WtYt3
-咪咕视频4K,http://r.jdshipin.com/ln4xk
-咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
 凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
